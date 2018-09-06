@@ -1,4 +1,4 @@
-package com.java.one;
+package com.java.basic;
 
 public class UnicodeDemo {
 
